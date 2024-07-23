@@ -110,3 +110,8 @@ body {
   border: 1px solid #3787ce;
   border-radius: 4px;
 }
+
+.move {
+  border: 1px solid #20b7f6;
+  padding: 8px 16px;
+}
